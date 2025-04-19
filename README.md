@@ -1,0 +1,2 @@
+# InsightAI_ClassifyAndPredict
+Classification and Regression Prediction
